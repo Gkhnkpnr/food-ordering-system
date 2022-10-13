@@ -1,0 +1,17 @@
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/entity/OrderItemEntity.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/customer/adapter/CustomerRepositoryImpl.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/entity/OrderItemEntityId.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/adapter/OrderRepositoryImpl.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/customer/repository/CustomerJpaRepository.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/restaurant/repository/RestaurantJpaRepository.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/entity/OrderEntity.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/restaurant/adapter/RestaurantRepositoryImpl.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/customer/mapper/CustomerDataAccessMapper.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/restaurant/exception/RestaurantDataAccessException.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/restaurant/entity/RestaurantEntityId.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/repository/OrderJpaRepository.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/restaurant/entity/RestaurantEntity.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/restaurant/mapper/RestaurantDataAccessMapper.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/mapper/OrderDataAccessMapper.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/customer/entity/CustomerEntity.java
+/Users/gokhanakpinar/projects/food-ordering-system/order-service/order-dataaccess/src/main/java/com/food/ordering/system/order/service/dataaccess/order/entity/OrderAddressEntity.java

@@ -14,6 +14,7 @@ com/food/ordering/system/order/service/domain/PaymentResponseMessageListenerImpl
 com/food/ordering/system/order/service/domain/dto/message/PaymentResponse$PaymentResponseBuilder.class
 com/food/ordering/system/order/service/domain/dto/create/OrderItem.class
 com/food/ordering/system/order/service/domain/OrderApplicationServiceImpl.class
+com/food/ordering/system/order/service/domain/config/OrderServiceConfigData.class
 com/food/ordering/system/order/service/domain/RestaurantApprovalResponseMessageListenerImpl.class
 com/food/ordering/system/order/service/domain/dto/track/TrackOrderQuery$TrackOrderQueryBuilder.class
 com/food/ordering/system/order/service/domain/OrderCreateCommandHandler.class
