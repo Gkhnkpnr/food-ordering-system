@@ -10,5 +10,6 @@ com/food/ordering/system/kafka/order/avro/model/PaymentRequestAvroModel.class
 com/food/ordering/system/kafka/order/avro/model/RestaurantOrderStatus.class
 com/food/ordering/system/kafka/order/avro/model/PaymentResponseAvroModel$Builder.class
 com/food/ordering/system/kafka/order/avro/model/Product$Builder.class
+com/food/ordering/system/kafka/order/avro/model/PaymentStatus.class
 com/food/ordering/system/kafka/order/avro/model/RestaurantApprovalRequestAvroModel$Builder.class
 com/food/ordering/system/kafka/order/avro/model/RestaurantApprovalResponseAvroModel$Builder.class

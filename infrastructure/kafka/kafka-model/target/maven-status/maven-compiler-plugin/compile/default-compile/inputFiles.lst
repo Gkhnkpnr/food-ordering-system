@@ -1,3 +1,4 @@
+/Users/gokhanakpinar/projects/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentStatus.java
 /Users/gokhanakpinar/projects/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/Main.java
 /Users/gokhanakpinar/projects/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentRequestAvroModel.java
 /Users/gokhanakpinar/projects/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentOrderStatus.java

@@ -18,6 +18,13 @@
       }
     },
     {
+      "name": "paymentId",
+      "type": {
+        "type": "string",
+        "logicalType": "uuid"
+      }
+    },
+    {
       "name": "customerId",
       "type": {
         "type": "string",
@@ -48,11 +55,11 @@
       }
     },
     {
-      "name": "paymentOrderStatus",
+      "name": "paymentStatus",
       "type": {
         "type": "enum",
-        "name": "PaymentOrderStatus",
-        "symbols": ["PENDING", "CANCELLED", "FAILED"]
+        "name": "PaymentStatus",
+        "symbols": ["COMPLETED", "CANCELLED", "FAILED"]
       }
     },
     {
