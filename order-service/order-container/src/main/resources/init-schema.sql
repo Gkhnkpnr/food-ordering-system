@@ -2,7 +2,7 @@ DROP SCHEMA IF EXISTS "order" CASCADE;
 
 CREATE SCHEMA "order";
 
-CREATE EXTENSION IF NOT EXISTS "uuid-oosp";
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 DROP TYPE IF EXISTS order_status;
 CREATE TYPE order_status AS ENUM ('PENDING', 'PAID', 'APPROVED', 'CANCELLED', 'CANCELLING');
@@ -42,7 +42,7 @@ ALTER TABLE "order".order_items
     ON DELETE CASCADE
     NOT VALID;
 
-DROP TABLE IF EXISTS "order".order_address
+DROP TABLE IF EXISTS "order".order_address;
 
 CREATE TABLE "order".order_address
 (
