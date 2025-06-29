@@ -9,19 +9,10 @@ import java.util.List;
 
 public class OrderApprovedEvent extends OrderApprovalEvent{
 
-    private final DomainEventPublisher<OrderApprovedEvent> orderApprovedEventPublisher;
-
     public OrderApprovedEvent(OrderApproval orderApproval,
                               RestaurantId restaurantId,
                               List<String> failureMessages,
-                              ZonedDateTime createdAt,
-                              DomainEventPublisher<OrderApprovedEvent> orderApprovedEventPublisher) {
+                              ZonedDateTime createdAt) {
         super(orderApproval, restaurantId, failureMessages, createdAt);
-        this.orderApprovedEventPublisher = orderApprovedEventPublisher;
-    }
-
-    @Override
-    public void fire() {
-        orderApprovedEventPublisher.publish(this);
     }
 }
