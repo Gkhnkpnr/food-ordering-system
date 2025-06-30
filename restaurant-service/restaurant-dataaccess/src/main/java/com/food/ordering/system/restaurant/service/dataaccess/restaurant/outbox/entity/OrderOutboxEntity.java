@@ -19,6 +19,7 @@ import java.util.UUID;
 @Entity
 public class OrderOutboxEntity {
 
+
     @Id
     private UUID id;
     private UUID sagaId;
